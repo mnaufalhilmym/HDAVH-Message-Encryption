@@ -1,5 +1,5 @@
 # HDAVH-Message-Encryption
-Message encryption using a recursive function.
+Message encryption using recursive function.
 
 
 A code to fulfill basic programming course of recursive functions chapter.
